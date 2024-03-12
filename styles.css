@@ -1,0 +1,14 @@
+body {
+    background-color: aliceblue;
+}
+
+.big-title {
+    font-size: 50px;
+    color:red;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    height:7em;
+    width:5em;
+}
